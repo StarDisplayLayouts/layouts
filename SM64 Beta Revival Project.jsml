@@ -1,0 +1,19 @@
+// SM64 Beta Revival Project
+// layout by @g0ldyosh
+{
+	"courseDescription":[
+		{"text":"-- Mountain --","Type":2},
+		{"text":"","starMask":3,"offset":35,"Type":1},
+		{"text":"-- Fire Bubble --","Type":2},
+		{"text":"","starMask":1,"offset":33,"Type":1},
+		{"text":"-- Water Land --","Type":2},
+		{"text":"","starMask":1,"offset":34,"Type":1},
+		{"text":"-- Bowser --","Type":2},
+		{"text":"","starMask":1,"offset":27,"Type":1}
+	],
+	"secretDescription":[],
+	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAN5QTFRFR3BMRS4AMigAfm4AY0gA3d0AwbQALSYANCgAQDUArZgArJ0Aln0AcVEArJwASCYAOSYAcFkAvKwAx7gAxbcAclsAOzIAVkkAKCQAn4cANCEAfGMAkoMAjH4Ar6EAWkcAr6EAwbUAT0cAtK8AHRAAV1YAr5wAaWUA//8A+/sA/v4A9/cAZWUA7u4A8/IA4uIAc3IAV1cAbW0A6ugAUlIAKykAXl4AOjoAxsUAQUAAS0oAenkAjIwA1NQAp6QAlZQAa2gAnZwAs7IAy8sAt7cAra0Azs4AhIQAv78AEhIA60YztAAAACh0Uk5TADF3v0H8xX9EwYC/hCnNEQ1owKbMgVy566VkW/TP2tDq36Hcsu+R2UtnWIkAAAHqSURBVHjalZPpdppQFIWJhiLRmNjMSeeRO0+IzDOo7/9CvUCtZjVmtfsXrP3dfdgHMP5Tp+/S1/33Prk+f8UflwyAq9OjwE3RIuiAs2P+ybhW0HHg1bEhd1kCHC00PQKMSx3Q6e3L/se4RU4vNX/xfFwz6PwmDjNm0+l0Pv/wyfdN5Oykrt/0+mEYi6+JyZSilBKECIWQMKKbAAAQAsB8MPKsbBkB/Tmz2SC0yZIhBSLCzNK4D/A69RnqxtdhRGkU1N01oKwqs3VufLtfrtyoMTsi3XqE4G0K9AjlZxLj77ZhWMvlKvSylgANuIQIDUDEGo5lLrQ/EIG79gkolzpBbhuIzAJjngur73k+6ghRMLjBMaWx2DiqkTnH7sgYdDnRhFcTR1UJAImvHFrFEQ4nF8ZOk8cwY2BoB7oOtC3wybM3zSs0VCeoJ1CSLg78y0XBANR2UpcVox0C6ezwW+MbgqhKyrUneDogz4CnuGVmlUZYcs8VvPAZhfThYv8EPwu/jiXOeSRd1xUiz/RW2OxgQjHYHIerINSExxuFzvaAjKSMtC0CXblHPF6qPfAFS8kldu9uJ7rRya1GhLf2Pz/tgMD1PBHa9uNus12KF/t/IparlW3bh5sbWZbtRje7W8saGX/JWk7+6X//BZiEY96n7qSbAAAAAElFTkSuQmCC",
+	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAAAXNSR0IArs4c6QAAArxJREFUeNq1lb9rGmEcxt07ZOgfkCUhiwgOQidJyHTjOSTDQUAaRFzi5BRKxc1FCrdUDppbb9J0cItHETfjVvCWg9wgGLhBEFooPn3e7ymeyaXU0PrA5XL3Pp/vj/f7auq/fvKZ+tLC6+3HH8YuAnQn+cyr7Ff9DjwsMMfXb/njnQEXdQsjhPhBLfD5487Vq/gBrRHg9suOZWhdEyOxRwph3+0EUPF9sa7EPuxgP71vYohwCxDAGv919OZPxpcCthAvldFotQf2XXvQHljjm4ebBxcuvv9i/GfyWUhc1ifaz8vdyQgefCrATDRFSE0xkx2YwlN3ooVoTvEvwzRaqRKacDCEx4XzTTS+dNCTpT1wR+KZCIJYWZM6eDxBEfWlDRf+pnG0aahJPjXk0YmZQ1qHcGDSVUTq7e3BYxrvoHOhI7VHzbPxBoaUU8Q+7NXTOQK4aKKCInW2zPXZhaPrfSiEBkOSnWIRAQidUjrvCBC7BwdVlAgore2pGOIEOtNyBeEgrTKgKszAUXbmZ6JEKYSOo+vY5K8ReXJNmUEXRTQRYsarjp7MgYNKgl0+6b38cYQw0MFMlg8ZUfV7RFgg52FIWI1gDdlCei/hG+DwUoMJb3sGN/8JwiQg+WQKogI3tpXzaKi2ECPYOC8nuVnGedmCv542WkfoREMWhxDaaL0Qv4oephI3oNnhjhhsahUWIT6fLv4MKJw1ZaHHqy3NqqAKA7pATLjwBBISkNTCzPuJBRedaM5ku2qo0K4J4mypTo0rGXpEJBZgbpmrvNNkNogQGXzmIEDIL9nEHajRyiulMDqt0RuBSB4K0YGfBNC6RbFXV2atmy1kC6shy2QLa4ghw96dXF0+AZyol4xBK07vc/3Dy6eTusqEa9iL5zlwjKlcXylx0uTQKeX66uhf1BNfJrgSMGmehX/2C/4bYhWMXIsk96gAAAAASUVORK5CYII=",
+	"starAmount":"5",
+	"starsShown":5
+}

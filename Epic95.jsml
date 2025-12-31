@@ -1,0 +1,50 @@
+// Epic95
+// layout by @g0ldyosh
+{
+	"courseDescription":[
+		{"text":"5 YYAMA1 % YSLD1","Type":2},
+		{"text":"04","starMask":111,"offset":16,"Type":1},
+		{"text":"8 SABAKI % PYRMD","Type":2},
+		{"text":"08","starMask":40,"offset":20,"Type":1},
+		{"text":"10 YUKIYAMA2","Type":2},
+		{"text":"10","starMask":127,"offset":22,"Type":1},
+		{"text":"12 WTDG % TINBOTU","Type":2},
+		{"text":"03","starMask":2,"offset":15,"Type":1},
+		{"text":"14 CLOCK TOWER","Type":2},
+		{"text":"14","starMask":127,"offset":26,"Type":1},
+		{"text":"17 EXT1 YOKO SCRL","Type":2},
+		{"text":"B1","starMask":1,"offset":28,"highlightStarMask":80,"highlightOffset":11,"Type":1},
+		{"text":"19 EXT2 TIKA LAVA","Type":2},
+		{"text":"B2","starMask":1,"offset":29,"highlightStarMask":160,"highlightOffset":11,"Type":1},
+		{"text":"21 EXT3 HEAVEN","Type":2},{"text":"B3","starMask":1,"offset":30,"Type":1},{"text":"23 WATER LAND","Type":2},
+		{"text":"09","starMask":127,"offset":21,"Type":1},
+		{"text":"27 EXT4 MINI SLID","Type":2},{"text":"PSS","starMask":3,"offset":31,"Type":1},{"text":"36 DONKEY % SLID2","Type":2},
+		{"text":"12","starMask":124,"offset":24,"Type":1}
+	],
+	"secretDescription":[
+		{"text":"7 HORROR DUNGEON","Type":2},
+		{"text":"06","starMask":1,"offset":18,"Type":1},
+		{"text":"9 BATTLE FIELD","Type":2},
+		{"text":"01","starMask":32,"offset":13,"Type":1},
+		{"text":"11 POOL KAI","Type":2},
+		{"text":"11","starMask":127,"offset":23,"Type":1},
+		{"text":"13 BIG WORLD","Type":2},
+		{"text":"13","starMask":9,"offset":25,"Type":1},
+		{"text":"15 RAINBOW CRUISE","Type":2},
+		{"text":"15","starMask":127,"offset":27,"Type":1},
+		{"text":"18 EXT7 HORI MINI","Type":2},
+		{"text":"VC","starMask":1,"offset":34,"highlightStarMask":8,"highlightOffset":11,"Type":1},
+		{"text":"20 EXT9 SISOU","Type":2},
+		{"text":"S1","starMask":1,"offset":36,"Type":1},
+		{"text":"22 FIREB1 % INVLC","Type":2},
+		{"text":"07","starMask":127,"offset":19,"Type":1},
+		{"text":"24 MOUNTAIN","Type":2},
+		{"text":"02","starMask":3,"offset":14,"Type":1},
+		{"text":"28 IN THE FALL","Type":2},
+		{"text":"MC","starMask":1,"offset":32,"highlightStarMask":4,"highlightOffset":11,"Type":1}
+	],
+	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAALpQTFRFR3BM/v+MLyoBUEQK/uc+eF8CZUsE/+9FVj0DPzAB9NEjKx4AaVIB//ZQsaFL/v9+9eBmRjoB/tw5upsI/ucz//1x//+3/+5ROikAAgIA9+JF8tVMya0xSTQE/v/N/f+p4c1LcWgsIRgAh3k4WUoEza4O5sET/vVm58kw179W//6d/d8slX8S//pch2kB17MGtqIpXVUjh3Ulo4QAqY0M17gs2c9ooo47lXMB/+86FBIJ//7v/PJ7z7xkbX0lxQAAAAF0Uk5TAEDm2GYAAAGxSURBVHjarZPZbqMwAEVtvANmCTuBBBICZF+aven//9Y41aihIxXNQ+8T6B4duLIMfj27YX9/ydZ2Xz+9FCGEfcD88R72AKXlwNH7GPYIYGCPRoseQRBJOPpRMf0IIsZk+JPCspw1i2RkjxaNA17Jsux0aouiGDpQMrmWMnw4zvAzaQTAwZo7TmDbdtM0wSWLZDFtgvUDQhiG6m8CMBHVxmsHGDOV+57J/T1VT7cb9nVvRSi4TwxDkJmuK6ZNJoyJJMMML5f1CnHKBQATQxMx9zxFpEmCfZHsGNZnM8pNonoM/iNKIfL8rR6kiTEYVEmqvo4QJwTFHULEGWOo9P2VxuQJUUpMt+MwhDg0DA/UlrS9sbFFur3KpCzPkVqH/c/BQXg+U9DN3rKcVNXLeqs/kcX4nxMr5x+pv9TrI+VvW32J12G4+C4oCl2vPcopzxVS+7b9TVFabTtbcU4JqZBCrlvGYBeY7q7XZ70hruaiCuX58RjZrx4dCOfmZvOcpmnCrSjnfCWDF2AqNzGrv8u12EWmaXrRF5BzipArvt41pRHIzDqHocUx6EYxRkx/5zb/Aa9RJ+CTR/1wAAAAAElFTkSuQmCC",
+	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAABhQTFRFR3BMcHBwAAAAZWVlW1tbSkpKNjY2IiIiudkYlgAAAAF0Uk5TAEDm2GYAAAC/SURBVHjarZNLjsQgDAXx+9j3v/EoyVgQWqI3XdkEqoQXiPFzSl98Mk4e5YhTgeQxQCniVCDj5nQAeSiQ5CmoUgfUmOSFLxR8Ckq2bEnX4LQYEby+LqLhAICyJO7IBWDgJu01kSTjZvwXVWshZbb/HnQC63Y9vf0sUmxy6qWYnlHtm56gCzLCxnZPpVs7JenzQvAIF4C0tAcoW87CQ3ovkHZiIcl3UNioYix+svwzPoPXsrgH+zpHM/V76zev+Q87ZAX22yKKawAAAABJRU5ErkJggg==",
+	"starAmount":"70",
+	"starsShown":7
+}

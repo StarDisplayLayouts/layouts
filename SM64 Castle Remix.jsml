@@ -1,0 +1,19 @@
+// SM64 Castle Remix
+// layout by @g0ldyosh
+{
+	"courseDescription":[
+		{"text":"-- Castle Grounds Remix --","Type":2},
+		{"text":"","starMask":127,"offset":12,"Type":1},
+		{"text":"-- Wing Cap Remix --","Type":2},
+		{"text":"WC","starMask":1,"offset":32,"highlightStarMask":2,"highlightOffset":11,"Type":1},
+		{"text":"-- Metal Cap Remix --","Type":2},
+		{"text":"MC","starMask":1,"offset":31,"highlightStarMask":4,"highlightOffset":11,"Type":1},
+		{"text":"-- Vanish Cap Remix --","Type":2},
+		{"text":"VC","starMask":1,"offset":33,"highlightStarMask":8,"highlightOffset":11,"Type":1}
+	],
+	"secretDescription":[],
+	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAAlwSFlzAAAuIwAALiMBeKU/dgAABDdJREFUeNrtl39M1HUYx5/v/eQIyiyTKMw1aZWV2bIBsZa6aIUb1VaTNrfMWm1ottZkrT+85h+tbBZjx7yRqMMp4u+JAof4G+/8raAiOuGcJzpugA5RT/D7eO/P+fkedwJ3p4L/+GzPHwe7Pa/n/by/z/c5ehwPEikHp2ch6VGEzvHJCKXu+1bl+KKzH7T+G0/DHfrKqQVUl8dUb2OlxVFAwxmW6vTp+soPWQKQx8XU1p5OwxEjV2w0JtW+dVJfHQbQ0e3F/2go46ncXUruqZGFY7a/wfcAdHYz1fcuoKEM66X41JzDyb0DArh6VCp0v0dDEZu7zYm2dsvxz+qf5UEBrCcPQCl62NHiM/z+f2ccRwT4rZ4pu7qQYglONzzHBTRapFsZxa00DYmiXUx/XFSVdS6f6ZoEmFj2Gr+69jsNwNxYw+Oa3EGArAqVXlpa86Jl8V+UYJs3xmKbisww2Ef1TULwDFrCvxBzEam8jZibiNUrxL09xJ23iT2qwrtvmrisK44XeuMZHpiSNYW/mTWTx+6dzROP2fj9L7PF58l7ulhZ0Mj0gysAMW45U1Ix6xJsIp98oohfMS3myWTnn/1lS6l8TaD7j3SnBcQGf7qDxRt6DOy4YWZ0juIzm54W3efn53NJSQlPqvqJU6usorjH4+HMTeeYaq4x/dccgPi8humd1YDQAN7VB4pX0PoTtcqmZ4IjyNB7BUS5BoHuAaAVz3Qlc/Ki51kqkLN5nhhFatrrAmjslp1MzSogoIQE6Ld4MzneDPXBCEOGgPhWUbkUowBEcASAwPzftqex2WxGSgW0zwCAD2RxjEAWl7KfUKrU0OLhEOMNKn991xOH4YfAOA7dMopRzNo7AcXQNUyoeQB/wwikCaXscuZFtFIU9yU4M2mw4Am6LzSIhf50hkJACaiABAAd+Yczdi1B95D9nuK5VMylVMaXDNtVn8X5K0UTbNL9ySl+iBydBtHjIx8A4IXR2yYxVWerEoDOrmPyepg2XhUAD1RcBht1NkDAExgFFMAIYESTIzMIcPQuQFtjwIDzGzB7AED2QPHE/YUUa0g/wAsYAbqf3ZKILTggALYhngCpAhSQc48dIMlo7a/7F2r7A1gvATQV4AOogBHcnwJp+oqw7qMHKG8PUeGUUnkm9ncDuneK7rGGYwGAGbEJQ7wQ/uxHfhTRfZtYx5A/doC5h4QKWEJQYQWtzo6u+I9GPV5QsntswQEB9uU56OjfDj9AR38A2IbSC/NpmT1qANk91nA4QErt+AYcpTjL5XfEWd52Jo86r58PB5DreJrOfiHPUqxEBsBN4Ax9Dyy9GufGLSh/hAx68ZzmT6m8w0pzDl7uCwAVcBNEBlhFc9A9Nh8OkbqbphnosK9C0V7P9PHWr+jl5Tsooeg6IHCgRAbYQyXspbm4jOghBa4fXEYAePyDNjzuAEsFP68hmB7gAAAAAElFTkSuQmCC",
+	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAHJQTFRFR3BMGSJIHChcGiRPGB04HzaFFRkrHzBvFxszHjWCFxsxHilcFxowHzaDGB03IDN8HzeJITaFFxktHCVSFxouHzJ5GBwzIDaGHzN/HzN6HzJ2HjFwHi5qHy1mHytiHihbHiVUHCVOGyNHGyFBGR87GBwypuWjjQAAABd0Uk5TAA8ZKD1DU1ppfYOTlKmrtb/DyNLh6fBFZ50WAAABLUlEQVR42q2T3ZJDQBSE/UcEuysZghDMzPu/4nZnxhpVG1f57lR/dfocivdxTqfjPBAiOBSKvvs6LHj0XXtQ4gsKByWXkUL7tiR6voT7PX5TcLVCI/z/C6Z1QlPsbw+jNMvL67wJjfguivM5jsPAy7VWSi7LPE+bsFF4fqWZM35agTTG+uFuNxgQEI8DBQKLmG3D2hojBvQdaC0itPevBieQDhoQsWdJtDLG8CC9xfkoKYyXMGAPWuTsOeQaApbgJXRgXfafAQLvnMy1BAUOmZbLhHgGcMh+QqXkzHgBUMjVzX00MJUS50g4lEJHSNBgYq2NAid1j1DSpLos9eqUjnBTinGV+qhLKyhw6i0PNdI6j/6esxudyHmRukp8zyVBVbatkAVuSFiVf+Zv/gVxfjG0a//sogAAAABJRU5ErkJggg==",
+	"starAmount":"10",
+	"starsShown":7
+}

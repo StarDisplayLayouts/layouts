@@ -1,0 +1,21 @@
+// Darius the Janitor
+// layout by @g0ldyosh
+{
+	"courseDescription":[
+		{"text":"-- Day 1 --","Type":2},
+		{"text":"","starMask":1,"offset":12,"Type":1},
+		{"text":"-- Day 2 --","Type":2},
+		{"text":"","starMask":2,"offset":12,"Type":1},
+		{"text":"-- Day 3 --","Type":2},
+		{"text":"","starMask":4,"offset":12,"Type":1},
+		{"text":"-- Day 4 --","Type":2},
+		{"text":"","starMask":8,"offset":12,"Type":1},
+		{"text":"-- Day 5 --","Type":2},
+		{"text":"","starMask":16,"offset":12,"Type":1}
+	],
+	"secretDescription":[],
+	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAABtQTFRFKbVKJqhFCDUTAAMAAxcGH405EFQgGXUvIpk+CW2+igAAAKlJREFUeNq108EOwjAMA9Akdhz//xcjBDsMaHdA89VPqqUqcUqq5NgkC+wrMHYuarcIACxJmly003qG1ed1BGr62JDh09gWUJ3LkSY4GbEDlXEvqIsN0QS9AzmFmrFfYEEIEoDG+ZvkzBAgSHn3mz2FBTlGpgB5DQ6xBG8xOxD3A9cFEDC5BG7xR5+2u4AqgnXqsyWpiFekdkZ8Aam7C5z88zb3INz98cIDhFEFeXGvIgQAAAAASUVORK5CYII=",
+	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAXNSR0IArs4c6QAAAKlJREFUeNq108ENQjEMA1CWyT0zeAgv4QE8gfdGUFB/JVoOCB+bd7CU5lbXtCzUktsKnHwFBHoDAOUZWzZ7gmVKys/gClpJTM4O6LoAKDF7WxJJ2FUn4K7/Ap87jJY4gaZjEdiBQUZE9CdQ3STfCKd1Ux5kB8ZmhD2YYgeG4AnU/wH8BShhbwE45xfQAOjEzvigEzT9SF7xWNcCJMki6IT9422eQYHo9eUOI+jstDy0eJkAAAAASUVORK5CYII=",
+	"starAmount":"5",
+	"starsShown":5
+}

@@ -1,0 +1,23 @@
+// Beyond The Castle Walls
+// layout by @g0ldyosh
+{
+	"courseDescription":[
+		{"text":"RAINY COAST","Type":2},
+		{"text":"01","starMask":79,"offset":12,"Type":1},
+		{"text":"COZY TREETOPS","Type":2},
+		{"text":"02","starMask":79,"offset":13,"Type":1},
+		{"text":"ETERNAL FORT","Type":2},
+		{"text":"03","starMask":79,"offset":14,"Type":1},
+		{"text":"HAZY MAZE SEWER","Type":2},
+		{"text":"04","starMask":79,"offset":15,"Type":1},
+		{"text":"THE END?","Type":2},
+		{"text":"","starMask":1,"offset":8,"Type":1},
+		{"text":"THROWBACK FORTRESS","Type":2},
+		{"text":"05","starMask":79,"offset":16,"Type":1},
+	],
+	"secretDescription":[],
+	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAW5QTFRFR3BM/Pca8ecW4dUV+fk3/P5C/Pw88u9M//+u+vcR7Ok6/PoY/PkU+vkX2cYL/fwq5doN5dMR/f5r/f18/v0N+foR+vYR5c8J7+MM+vII8OQI+/ZI/v5Q/f9T+/14/f+R/fx1/v6B//6g+/QF+/cG/v4uzsAHz7oC4MoD/f0R+fQU1MAD+vx3zboB0sAE5dQC/f18/P5g/v6I/P5s/f+b/v++5NAD3skC6tkF/fgQ18EC2sYB7t4G/v0R/v6F//+l+O8J0LoB9eoJ4M0F070B/v1x//+1//+d/fgD8+QE+vMN/v57/v4o/vwG/v4X+PFK8OEY//+O//5N6NYE69oY/v409+wZ/fto/v1f8ucm///aAwMD9us0/v9B/v0h+vVY//6U///Oo6MvUVBRzrcA7OlH//+/+/Q9xcZ5fX125uI3gH0mP0AlmJlS5uhumpqbr68xYmNizc5m1tVN694u19V/r7FZ5OWpNjY4xcXEsk8EQgAAADZ0Uk5TAP4oFw9HOAT+fQsdtVSDaUD+hS7ox5FxsGHuheSVd2z7tfv40/Nazreg0+JQz7jwntvXzoLL5oyn8gAAAftJREFUeNqtk2dzqkAYhcWKsUbT203m9t4pC4J0DBYEjV3BbvpMbv33d5PM5MIk+inn63lm9z1n3/U8ugKBxb5/Z2dpIbCrabsL7FCwZilMcD6w9LnMyuyX0FwgpSmoPJa/zfPTksWyqG2P03Mm+MooSlkZN5vfH75kT7OUssSwdtN+4s6eDrzbS3062Ges6Xm9Nv1t2+hBajsRCHqvO4kvVxrtUq8maQwzHZxNrgYzWWbLktHJFwvq07An9AEIy5UfxyMInV3M8pcXf8/rRqdazRczBTUaguHfi4CCjK43TgZ/uv3B7DgP1b32n/k9UL63AMcImj9CTlqn1ctWa2QYnU61WyysRG6n9H4kcnz2EOn2W33jqnXKMIwm1Y3q87vSk9AmEQRp9EeT3q+fCnozZt3x8puqqpJHUDrRKEllVEYtreYqI6yqPE3QpkDhlUmdYa1ee9tVVkTlCUwQcAoAgMFD9ku61wVs8iZ0oXDAiXilXWqb6y5gg8BwHBcwkzYpUaRMXcdeuYAteIBg0jAtT+BAhMXgwPmkyRxhwqqyJJkhszQGOA4AMekMkaNzsIpMBnkdJQ9zJsUNh1zcAaxmb+zVhB82n3jD04I4HL50bAQJ3ZW122Dw6uDalgmGnO8OiBWL0VjItX6xDUF88X+EcMRzT771+OP85n9CZ3UgbWL0vwAAAABJRU5ErkJggg==",
+	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAFdQTFRFR3BMoKCgZGRkwcHBXFxcYmJisrKyX19fs7Oz0tLSzMzMgICAXFxcnJycy8vLXFxc0NDQx8fHwcHBu7u7sbGxp6enoKCgmJiYj4+PhISEfHx8bGxsXFxcEekSJAAAABB0Uk5TABQuUVFpjpSmqru7yN/i6I5wZV0AAAEXSURBVHjarZPbEoMgDEQFxNRWa8Vy5/+/swl4Y6b1qfvm7CEbdqT5u4S49pma2SVwW9T9MuC9qFlcBIwIXIV0mibMP0O4KcDPkHEDnux7gDPvArz6ejJvJQA83AG8nve+7zohBGsgoWL0zjlbACJ29Q0b0A8ebWv0NmHeKLoQm5AggPwCqAzs2/KVKANIiBx+TSwotenoo01E0JIUskmd+pJIBGc1ATtU9QkF0NoYvWJdXVZK3hljrLOWGKREBUDewbosa0j1hCHF7PkQfGasHc8+wxXQ9THm2n2GOTnHPb0P6BbFQIysV4jFBihIjOFxAqaUNUiGcXJYmfMlURPw/RvyCX4ucmjr36wFjDtWKIdrMQn/ec0f7Qoj5jV01pcAAAAASUVORK5CYII=",
+	"starAmount":"26",
+	"starsShown":7
+}

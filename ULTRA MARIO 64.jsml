@@ -1,0 +1,19 @@
+// Warped Worlds Decomp Demo Last Build
+// layout by @g0ldyosh
+{
+	"courseDescription":[
+		{"text":"-- Daffodil Meadow --","Type":2},
+		{"text":"","starMask":127,"offset":12,"Type":1},
+		{"text":"-- Flying Fortress --","Type":2},
+		{"text":"","starMask":127,"offset":13,"Type":1},
+		{"text":"-- Dancing in the Lights --","Type":2},
+		{"text":"","starMask":1,"offset":35,"Type":1},
+		{"text":"-- Legacy Fortress --","Type":2},
+		{"text":"","starMask":31,"offset":30,"Type":1}
+	],
+	"secretDescription":[],
+	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAEtQTFRFR3BM/f0A/f0B//8A//8A//8A//8A//8A//4A//8A//8A//8A//8A//8A//8A/f0A//8A8PAA29sAyckAxMQAuroAUVEALi4ADw8AAsEMsgAAABB0Uk5TABYwQFRia36Pn7HA093x/OtNb0QAAADISURBVHjavZHbDoMgEETXu7iyDHjr/39pqUlRJJI0bXoel8MwAP2aCui+EkoF6DojtPC0mQMGeHRzK3TwZFpUjB2uMgFpBB/ot6D5gHDCLos182JxgkZBwG2bs+tjjgRiBKZEEHrBdwnq0t/EgqrKIBQqTVBF9EsN78LqhW3a37ukGAXAOmeMcxYA04UGF/hDoQtzlsNIBfHTXt8LMpCnl1SoRwAmjJTsF40DjIwUGMREETUnrXtAt8eGsB6F6pPAxVUoBi/8hycj7BjJGLpMxwAAAABJRU5ErkJggg==",
+	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAB5QTFRFR3BMioqKioqKioqKioqKioqKioqKioqKioqKioqK4wviwQAAAAl0Uk5TAB08VGWBpL/imxnXYAAAAI9JREFUeNq9kVkKwzAMBeX1Pd3/wg2GICS3MqUl85VYw+BF/k1VHT8JdaqyJULXi54EoBf8bAxdjCSwQE0DMQGDt0AYogcEJ0FwmEuiTL//yKxFbsp8My/ujjrUwV7FExrY3zGA7wQ7BkAzdoEQGUwE+G+j0S1NroOGAGn/oE807Lt2iWlzZ4gJKBKBUp7hBUq3DcSoHEsWAAAAAElFTkSuQmCC",
+	"starAmount":"20",
+	"starsShown":7
+}

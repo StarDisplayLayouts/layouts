@@ -1,0 +1,22 @@
+// Stardust 64 Demo
+// layout by @g0ldyosh
+{
+	"courseDescription":[
+		{"text":"-- Main Courses --","Type":2},
+		{"text":"01","starMask":3,"offset":12,"Type":1},
+		{"text":"06","starMask":3,"offset":17,"Type":1},
+		{"text":"08","starMask":71,"offset":19,"Type":1},
+		{"text":"09","starMask":15,"offset":20,"Type":1},
+		{"text":"15","starMask":71,"offset":26,"Type":1}
+	],
+	"secretDescription":[
+		{"text":"-- Starting Area --","Type":2},
+		{"text":"","starMask":1,"offset":31,"Type":1},
+		{"text":"-- Courtyard --","Type":2},
+		{"text":"","starMask":1,"offset":8,"Type":1}
+	],
+	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAYNQTFRFR3BM//+M//+5nUAA1agApUoCz58G///I+vV3rFsIzJcE+PYx9vBk/v2O+feD/PyM9O1A8eRLzZcAn0kBzJsE+/Zk/PhR4MYk//9b/f0i//+3//+v+PaV9exJ/v68/v63p1ICzJsD///J3LcXtGIA1KkBzJoBxosAt28A//583cEO0aAC+Pcq49Ib9O+I6txH//4l06YC9/drpUsA+vWB/v2r///B/v5y//2t/v7Pw4sB7NgJwoUAlz4Bp1wAvnYA2bEB2bsAmDkA//9959AS//+D//9w+PB9tWcApkoArlkA//96/ft44s0R8uk/+fOHsF8A8+ddx4wA+Pc79vAp+PZY6tol//9l+veT0aAD9+5rypABum8A3sYT//+e//87/v5R8e0h9O9N8Ogln0UA7+E+6NYV7No/+PV469sYvngAwXsA3boL2rAO+vgp+vdqqlIA9/Ju6tRA/Phl9/JP5dAm7eAj9ut43sEK7d0038oQ9vA+9uta795W7+Mt5ck7w4AAEuXaFAAAAEN0Uk5TAP7+/v5tDv4NDf42mlJftSMD7T1GtHXq7l7xdhmHajNUgY1J9ypu1/HlX9TDxCub6B7lJ/KaR87QQ5bhp47bvd+Y2NkDheYAAAH4SURBVHjarZNnV+JAFIZDL4Ig9rWsurq9995SDaQTk0BgEaSEJEAoAtb96TuycgxH4ZPPtznvc+49d+YOdOss+Cfnz5nQZCEid+9NyqdlGV/0js/9rysyXv48XgiJ9QpTVGbH5VOCKNaZsvk9MEZ4KghtsdJU2G8358s1QTgWrSZPuq418Uenlhde1pJJum010w3Xb49nY/ZNYNBq/V3kw1Iu9wdQSxYKeasZJA9crgPALvnwwSZ09042jmGYlAM5EOjUqcLuXtLQn3ihCwODYSwnJPf3C4d0hTP5KsGSJNloVGOvIMB7Z1aKw63ji1w7s5jTczMIHJLUYzvQgLAvK2FwndZKpZKWkuXuuanoBPE3Ngddsu5zYhKayO8hSOkMZ8qUkVZVPgjyISs+p0OCB0af4bQeT+hB5T5kY8vnc2AJGgFw3b6b0N3uzdGbAk3gFihAdYpdrqeqbvfoq38CBWAaoagMVUzhfZ7gjdHF2cpKcH0PoY4yHSCkDEJVfo0IH1sYmgdCJlPmLBwv82z1pz1fTfyf8qjX4awKjnMGwaZ37LuYg9FE+xDJLL4IvWXw1Eknzar2MecxFI2LxWePvWCg6fkTWjOr5A+bsISi6KO16PAYXftipIntwNUyxh2R8AxkY2bu6za5AQ0Jr6xC1/B6PLfzm/8BO1eD9UaEj5cAAAAASUVORK5CYII=",
+	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAHJQTFRFR3BMGSJIHChcGiRPGB04HzaFFRkrHzBvFxszHjWCFxsxHilcFxowHzaDGB03IDN8HzeJITaFFxktHCVSFxouHzJ5GBwzIDaGHzN/HzN6HzJ2HjFwHi5qHy1mHytiHihbHiVUHCVOGyNHGyFBGR87GBwypuWjjQAAABd0Uk5TAA8ZKD1DU1ppfYOTlKmrtb/DyNLh6fBFZ50WAAABLUlEQVR42q2T3ZJDQBSE/UcEuysZghDMzPu/4nZnxhpVG1f57lR/dfocivdxTqfjPBAiOBSKvvs6LHj0XXtQ4gsKByWXkUL7tiR6voT7PX5TcLVCI/z/C6Z1QlPsbw+jNMvL67wJjfguivM5jsPAy7VWSi7LPE+bsFF4fqWZM35agTTG+uFuNxgQEI8DBQKLmG3D2hojBvQdaC0itPevBieQDhoQsWdJtDLG8CC9xfkoKYyXMGAPWuTsOeQaApbgJXRgXfafAQLvnMy1BAUOmZbLhHgGcMh+QqXkzHgBUMjVzX00MJUS50g4lEJHSNBgYq2NAid1j1DSpLos9eqUjnBTinGV+qhLKyhw6i0PNdI6j/6esxudyHmRukp8zyVBVbatkAVuSFiVf+Zv/gVxfjG0a//sogAAAABJRU5ErkJggg==",
+	"starAmount":"20",
+	"starsShown":7
+}

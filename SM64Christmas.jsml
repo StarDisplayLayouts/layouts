@@ -1,0 +1,43 @@
+// Mario's Present Hunt
+// layout by @g0ldyosh
+{
+	"courseDescription":[
+		{"text":"-- Left Path --","Type":2},
+		{"text":"","starMask":1,"offset":12,"Type":1},
+		{"text":"-- Middle Path --","Type":2},
+		{"text":"","starMask":1,"offset":13,"Type":1},
+		{"text":"-- Right Path --","Type":2},
+		{"text":"","starMask":1,"offset":15,"Type":1},
+		{"text":"","Type":2},
+		{"text":"-- Main Courses --","Type":2},
+		{"text":"03","starMask":127,"offset":14,"Type":1},
+		{"text":"05","starMask":95,"offset":16,"Type":1},
+		{"text":"07","starMask":127,"offset":18,"Type":1},
+		{"text":"08","starMask":111,"offset":19,"Type":1},
+		{"text":"09","starMask":95,"offset":20,"Type":1},
+		{"text":"10","starMask":95,"offset":21,"Type":1},
+		{"text":"11","starMask":95,"offset":22,"Type":1},
+		{"text":"13","starMask":127,"offset":24,"Type":1},
+		{"text":"15","starMask":127,"offset":26,"Type":1}
+	],
+	"secretDescription":[
+		{"text":"-- Sherbet Land --","Type":2},
+		{"text":"","starMask":1,"offset":25,"Type":1},
+		{"text":"-- BUP Room --","Type":2},
+		{"text":"","starMask":1,"offset":30,"Type":1},
+		{"text":"","Type":2},
+		{"text":"","Type":2},
+		{"text":"","Type":2},
+		{"text":"-- Bowser Courses --","Type":2},
+		{"text":"B2","starMask":1,"offset":28,"highlightStarMask":160,"highlightOffset":11,"Type":1},
+		{"text":"B3","starMask":1,"offset":29,"Type":1},
+		{"text":"-- Secret Aquarium --","Type":2},
+		{"text":"","starMask":1,"offset":35,"Type":1},
+		{"text":"-- Overworld --","Type":2},
+		{"text":"","starMask":31,"offset":8,"Type":1}
+	],
+	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAb9QTFRFAAAA/+86XsNDWs83IcbeBFSg/+k41KY3S9BjEYy8jBfqVzjFcv8C0t5A/5wsAFKcIcbeSq1S+902Sq1Sh8JKJsrUc/8AFZzF/982qQL8tdNEXbRP/ug4BGCkcf0IGKbL/7UvXtYucPkKWLVNGkqn/O45S+GRrAD/TOGKULVNAVifYNotu9REFp/HbvUN/+M3UDrCospIJ8rQcv8ATq9RIsbdT7ZKI8fZWbJQAFOdw9dDTLFOmBHy/ug4H8HbOUew/9I0D4a33uE/V+lzo8pI9Og6ysrK0txBvdJFcv8CbPokafg1ZPRMcPoLYfFZbfQPWu1ha/EUUuaKaOobSuCZZeUjQ9uokcRKYdwvOdWvNdK8XdI6Lc7HKMrQWco/I8faIcbeIMLbarZPVcJEWcgHHr3ZUrxHT7dKVrFQQrN6G7PTTLJOS65RGarOgYGBF6LId3d3FJnCIZiWEIy6ZWVlDHuyXFxcB3CrgibhjxzrajLQCmuiWDvEoQr4qgH+SD+5BGOiRUxfnwHtI0qpAluhFE6jAVafigTSAVKdQUFBAkmGQSKMdgCvDjyEBz19Lyd8MTExKi8xAjdkEQ9JAwMDTzWmAAAAAIV0Uk5TAAMNFhkeKissLSw1Ojw/P0RHTVNYW2BhY2tyc3h4eoCHi46OjpaZnqOlp6iqq8LFxszN19nb4uXk5+ju8fP09fr7/P39/////////////////////////////////////////////////////////////////////////////////////vfvGxcAAAINSURBVHjarZPrW9JQHIAR81JZpt0Ty6Ib3dTsXmgIJCcYdwEB3YEaIzaaRAsGbJBjeAC12/7g5qMPbj7CJ99v53nfD+fyO7pj5/xYb9//9pm+Z3AzQhp76L4RDESSZ7oH+jkAfPRsX9fgOuZ0Y2thQzc/bA2uxN0BenGwS/AUhxCGwCfb9NH+IlQgVp2RtP3KYTcwOjp5Y57IZPMsEcRIh9kwNX52aM/dnnknCFxJRI0CW95pody3z7Gkw7G0aLfbze+np3QDr6VqkRd4riKiVvMnqv35HojE1lIklU6G7WZlvyctZSRVdptie/1rdfvHhy9+q9sJsBQdVrzCuflsvobECsdvNZub7d/r5QzEvcBH0bbx/e1H8UQ2X0fiL1ne2JTlnRxcdYEARV/o3KArGMUJxtKS/3EbstxiYNwJlukJXYdbGHAF45D5uy0Wt9oNBkY/gohR/YymmAf4IYMQkji+Ws4owUPtO9LLIAgZlmXrIscvFIgQ6NdOGh0AIZhQYBpVnhPZhP+SJjBRPrCC75LIo6rASXn8viZ4RXmA1+pViEILqghFlHuu9kNpEgN7OOMJFpWEUiN7QhVcS6c8Ho9P4cmcK04UpKJQqV9WBY9oKkWS5AvjsE43cvdlpiYqh32gCt7QCqaxzug8ros8v3DgB5dssxN6zQRNzvDc6c7ScOeIMT117+rx/Ob/LNylADAxDCYAAAAASUVORK5CYII=",
+	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAHJQTFRFR3BMGSJIHChcGiRPGB04HzaFFRkrHzBvFxszHjWCFxsxHilcFxowHzaDGB03IDN8HzeJITaFFxktHCVSFxouHzJ5GBwzIDaGHzN/HzN6HzJ2HjFwHi5qHy1mHytiHihbHiVUHCVOGyNHGyFBGR87GBwypuWjjQAAABd0Uk5TAA8ZKD1DU1ppfYOTlKmrtb/DyNLh6fBFZ50WAAABLUlEQVR42q2T3ZJDQBSE/UcEuysZghDMzPu/4nZnxhpVG1f57lR/dfocivdxTqfjPBAiOBSKvvs6LHj0XXtQ4gsKByWXkUL7tiR6voT7PX5TcLVCI/z/C6Z1QlPsbw+jNMvL67wJjfguivM5jsPAy7VWSi7LPE+bsFF4fqWZM35agTTG+uFuNxgQEI8DBQKLmG3D2hojBvQdaC0itPevBieQDhoQsWdJtDLG8CC9xfkoKYyXMGAPWuTsOeQaApbgJXRgXfafAQLvnMy1BAUOmZbLhHgGcMh+QqXkzHgBUMjVzX00MJUS50g4lEJHSNBgYq2NAid1j1DSpLos9eqUjnBTinGV+qhLKyhw6i0PNdI6j/6esxudyHmRukp8zyVBVbatkAVuSFiVf+Zv/gVxfjG0a//sogAAAABJRU5ErkJggg==",
+	"starAmount":"71",
+	"starsShown":7
+}

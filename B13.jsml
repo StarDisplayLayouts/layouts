@@ -1,0 +1,21 @@
+// B13
+// layout by @g0ldyosh
+{
+	"courseDescription":[
+		{"text":"-- Bountiful Beach --","Type":2},
+		{"text":"","starMask":96,"offset":28,"Type":1},
+		{"text":"-- Cozy Woods --","Type":2},
+		{"text":"","starMask":128,"offset":28,"Type":1},
+		{"text":"-- Ghost House --","Type":2},
+		{"text":"","starMask":128,"offset":25,"Type":1},
+		{"text":"-- Grim Green Forest --","Type":2},
+		{"text":"","starMask":24,"offset":28,"Type":1},
+		{"text":"-- Koopa Hideout --","Type":2},
+		{"text":"","starMask":66,"offset":16,"Type":1}
+	],
+	"secretDescription":[],
+	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAALpQTFRFR3BM/v+MLyoBUEQK/uc+eF8CZUsE/+9FVj0DPzAB9NEjKx4AaVIB//ZQsaFL/v9+9eBmRjoB/tw5upsI/ucz//1x//+3/+5ROikAAgIA9+JF8tVMya0xSTQE/v/N/f+p4c1LcWgsIRgAh3k4WUoEza4O5sET/vVm58kw179W//6d/d8slX8S//pch2kB17MGtqIpXVUjh3Ulo4QAqY0M17gs2c9ooo47lXMB/+86FBIJ//7v/PJ7z7xkbX0lxQAAAAF0Uk5TAEDm2GYAAAGxSURBVHjarZPZbqMwAEVtvANmCTuBBBICZF+aven//9Y41aihIxXNQ+8T6B4duLIMfj27YX9/ydZ2Xz+9FCGEfcD88R72AKXlwNH7GPYIYGCPRoseQRBJOPpRMf0IIsZk+JPCspw1i2RkjxaNA17Jsux0aouiGDpQMrmWMnw4zvAzaQTAwZo7TmDbdtM0wSWLZDFtgvUDQhiG6m8CMBHVxmsHGDOV+57J/T1VT7cb9nVvRSi4TwxDkJmuK6ZNJoyJJMMML5f1CnHKBQATQxMx9zxFpEmCfZHsGNZnM8pNonoM/iNKIfL8rR6kiTEYVEmqvo4QJwTFHULEGWOo9P2VxuQJUUpMt+MwhDg0DA/UlrS9sbFFur3KpCzPkVqH/c/BQXg+U9DN3rKcVNXLeqs/kcX4nxMr5x+pv9TrI+VvW32J12G4+C4oCl2vPcopzxVS+7b9TVFabTtbcU4JqZBCrlvGYBeY7q7XZ70hruaiCuX58RjZrx4dCOfmZvOcpmnCrSjnfCWDF2AqNzGrv8u12EWmaXrRF5BzipArvt41pRHIzDqHocUx6EYxRkx/5zb/Aa9RJ+CTR/1wAAAAAElFTkSuQmCC",
+	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAABhQTFRFR3BMcHBwAAAAZWVlW1tbSkpKNjY2IiIiudkYlgAAAAF0Uk5TAEDm2GYAAAC/SURBVHjarZNLjsQgDAXx+9j3v/EoyVgQWqI3XdkEqoQXiPFzSl98Mk4e5YhTgeQxQCniVCDj5nQAeSiQ5CmoUgfUmOSFLxR8Ckq2bEnX4LQYEby+LqLhAICyJO7IBWDgJu01kSTjZvwXVWshZbb/HnQC63Y9vf0sUmxy6qWYnlHtm56gCzLCxnZPpVs7JenzQvAIF4C0tAcoW87CQ3ovkHZiIcl3UNioYix+svwzPoPXsrgH+zpHM/V76zev+Q87ZAX22yKKawAAAABJRU5ErkJggg==",
+	"starAmount":"8",
+	"starsShown":8
+}

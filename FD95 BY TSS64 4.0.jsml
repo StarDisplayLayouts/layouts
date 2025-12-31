@@ -1,0 +1,32 @@
+// Funky Delilah 95
+// layout by @g0ldyosh
+{
+	"courseDescription":[
+		{"text":"Snow Mountain","Type":2},
+		{"text":"","starMask":1,"offset":15,"Type":1},
+		{"text":"Firey Bubbles","Type":2},
+		{"text":"","starMask":1,"offset":18,"Type":1},
+		{"text":"Stage 1 Castle","Type":2},
+		{"text":"","starMask":33,"offset":35,"Type":1},
+		{"text":"Donjon","Type":2},
+		{"text":"","starMask":1,"offset":17,"Type":1},
+		{"text":"Lakeside Battle Field","Type":2},
+		{"text":"","starMask":3,"offset":12,"Type":1}
+	],
+	"secretDescription":[
+		{"text":"Rocky Mountain","Type":2},
+		{"text":"","starMask":7,"offset":13,"Type":1},
+		{"text":"Water Land","Type":2},
+		{"text":"","starMask":95,"offset":20,"Type":1},
+		{"text":"Dev Playground","Type":2},
+		{"text":"","starMask":1,"offset":26,"Type":1},
+		{"text":"Hot, Hot Hills","Type":2},
+		{"text":"","starMask":1,"offset":23,"Type":1},
+		{"text":"Ghost House","Type":2},
+		{"text":"","starMask":1,"offset":16,"Type":1}
+	],
+	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAI1QTFRFR3BM0r0Ls6QXuaQJwKwLbGMMlYcO07wNmYkO18YekIAEppUJkYUSz7oTbWIISkYLzrkNrp4QcmYGyrcY3swf4ckInIsF79YQ584I994X/+ch7M8K79ML/uwn79YL89gT+uId/+YdvKgJw64LGRYAq5kL5s4UlYYKa2EH3sUMfm4GLikCBQQAV00EY1cGVssLBQAAABd0Uk5TALB9v8Q/Q/9//ry/aNQeBeuGVMPf0OJ0W/nhAAABUklEQVR42pXTy3aCMBCA4dECARXFS5tEIsFw9fr+j9fJpCIepKf9NyzyZSYb4H8FEbaC0cLogEX+OMj3CGQAIy12ewsOsT8+gEQ+MiKI86MTk/cjplI+xAKGbdZbScLmrf2X3bZYYiRoyHaKuUFBEHFM64cgQpt2YYjnJ8UpnTLGybBIIqCiEJhIuatoW0bn9zY6dgKMEG6EaspLg3t4cymNPLpNeQIb8zPidL6WZ9xRt+W1wm+Or5HbJYBfCNUB5UBTS5s2gK2WRqiM89quSPGtuKLSEuPVksBqU5Awt1vBua7N7c6e992MiRU1Y/SaumBKa6k9H7r8OFVZxhWnkGlO5888QaLfHF4BiewXgMKSERAmwpaq3pRk0QMT4UqRdGM+hoAIItcA9BD1DrAKOwnXECTeDLC5xwZg+om3DR67vgwSNoO+MCaAXjNjZn/84b8BTt44vjqttG8AAAAASUVORK5CYII=",
+	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAEVQTFRFR3BMAgICAAAAGhoaCAgIHh4eHR0dKCgoSkpKGRkZPz8/MTExTk5OS0tLKysrcnJybm5uZ2dnZGRkYWFhW1tbWVlZOjo6n6XDGgAAAA90Uk5TAAUePUVgcoGwvMHD1vn7y7rLXAAAAPhJREFUeNqV0+2OxRAQgOE5/VJ0imXc/6UuQ1ZFJXve9ufTaRDwXSsS4QemCbLGGNzmwGbgVpi0XwzMNRPCWRZu8o/tcpaFPbfJAGdNEQeM7UK5JCwbJboZh0hdjrOcMUqkdsitK3muCWPrcoTImxd86ceVimDjSAAGBr1gwoog0quoOYQtCd9ET5xaIAs/Cs5HSH2WmfD3Aiz2UbTvy4zzRXi9Pc8pPEQqAd0duqIqGtLQgypaA6AQ5kAg5cLT4AGtk0J+WPwZ1QGuEFbpVeOEqmp6nBDwThX4BlBJSGmFlNPdlSHCKKF2x0RQduuMsdtZGaP854X/BVPJJxlq7L9pAAAAAElFTkSuQmCC",
+	"starAmount":"19",
+	"starsShown":7
+}
