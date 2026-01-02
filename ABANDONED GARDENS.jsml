@@ -1,0 +1,23 @@
+// Abandoned Gardens demo
+// layout by @g0ldyosh
+{
+	"courseDescription":[
+		{"text":"-- Abandoned Gardens --","Type":2},
+		{"text":"","starMask":16,"offset":56,"Type":1},
+		{"text":"-- Bomuhei Ravine --","Type":2},
+		{"text":"","starMask":128,"offset":40,"Type":1,"useExtraIcon":true},
+		{"text":"-- Star Bastion --","Type":2},
+		{"text":"","starMask":2,"offset":22,"Type":1,"useExtraIcon":true},
+		{"text":"-- Wallman's Tower --","Type":2},
+		{"text":"","starMask":2,"offset":13,"Type":1},
+		{"text":"","starMask":2,"offset":57,"Type":1},
+		{"text":"-- Fire Bubble's Challenge --","Type":2},
+		{"text":"","starMask":1,"offset":12,"Type":1}
+	],
+	"secretDescription":[],
+	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAuIwAALiMBeKU/dgAAActQTFRFR3BM/v6q/vy12rIH06cPsmcX+O9drFYA+vgx375b7ORq/Plr/v6O/f2x8N5J//9G//+91a0R17ACzZsG0qMBtWcVyZIC+fZe//+c//+D///J/vyN//+d+fRC///G//2Y4sgM27YOvXgZ///H///B+/iM8u2JlzoBnDwCokgDxpABokkFunIDz5wC//+LmkMIlzwHtmsAx5ACnkQE//5/+v4t6twxyJQAy5cA+Pcx6NU9zZwB///FvHYH//+zy5MU7t8a///T//++///N2bUB///OvXUBtGUV/f1p//99o0cAzJQAr1wA///ItmcA+vds5c8Q//9hwH0A//+I//9u+PF7+PhKs2IA+PZ/w4IA4skQ1agA6NMa9/NcqE4A/v4vuG8A+PaP9u1m7+Ew/ftz+O+JnUAAt2sAx4sA9PFu8uwj9upv8+pK7+Va7ttJ4sIi6dwu6NUQAwMD9/I0vXcA//+r4dA3//+5//+y//+d2K0W9Ow04tQn6dkizpwCtLRRVlZWWVIIlpJE//9N3cMM06MJyI4D37wAwr1UiIZmra2tZWIwZWVl5so3+flW5c1SmZRRTk4cHBsKhnsOtq0emI0RnJycgXgLmpQdJ0C2nAAAAIZ0Uk5TAAom/jEVQv7+AvwdBRcSa1sGknDJUsPMeC90Z1BU6oroVHr0tuvu80fVpTiW9PZ7v+2OjLGh4PfruPpcxoDkI59CpJzn0vnEhf////////////////////////////////////////////////////////////////////////////////7nGznzAAACEklEQVR42q2T5XMaQRiHL0EuQLA48TRSd3eXPQscHHfHYUECFPcQJEAgXtc/t1vaDsc08CnPzH7Y+T2z78677yInjs7QO1fPPhjsKTwnycle+VOSJBf7u+d9L8lCllxSdMsVk2TWZNkgdd2E/sU8sEBjVt3lgKUNswUAkzn/7PgiuoLZBFahUchPd15NZZDPaLVvln2OLWUELpB9NDcxNS03qPpgPHHJDAHAYjGZtqr1xNfqvg8AAHfb2y7XgBYZvAGAb7WF7/D7fvLbwUH0vdU6AHG5XDcVsMK4I+It2yHlWvUw+ePoqPQWkk5D5W6r76pbduMfaqma92fqc6JYLKatkHEN0kI632jYbDaj/UuqzuylPjkcDliQ41bU/xogv5fLlUoJb66+4vd/3Asx3BpkWfQoU1woFPJ4/GvK+IdwNBaLRsNhpRwRMcdxDOP3x+JCZfNdfFNiizcXEDEaD8Mw4ZhxtxLkd5o7dLB5tbPdMxGPJ+JN7uIZd4ByZ1jUTZzvEJ54E+VkQ+ADAZaAoBiGXRbn+nmbRMAzVIAO0iyKok4MW78iFqQSnHazFI1XcDzoRp2/hdMykXCKpwgqgwvCnWvnbuM85cSgcUYkvGYJihckI/f1CCIbHsF51omtX2/nMpSg8BdD0r+N1UuHLtIodrYtjBKvxhb0ouFTaIbHAqisfYWHj/+fUOmF0ZP5zb8AbGSReM3k8BUAAAAASUVORK5CYII=",
+	"extraStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAALpQTFRFR3BM/v+MLyoBUEQK/uc+eF8CZUsE/+9FVj0DPzAB9NEjKx4AaVIB//ZQsaFL/v9+9eBmRjoB/tw5upsI/ucz//1x//+3/+5ROikAAgIA9+JF8tVMya0xSTQE/v/N/f+p4c1LcWgsIRgAh3k4WUoEza4O5sET/vVm58kw179W//6d/d8slX8S//pch2kB17MGtqIpXVUjh3Ulo4QAqY0M17gs2c9ooo47lXMB/+86FBIJ//7v/PJ7z7xkbX0lxQAAAAF0Uk5TAEDm2GYAAAGxSURBVHjarZPZbqMwAEVtvANmCTuBBBICZF+aven//9Y41aihIxXNQ+8T6B4duLIMfj27YX9/ydZ2Xz+9FCGEfcD88R72AKXlwNH7GPYIYGCPRoseQRBJOPpRMf0IIsZk+JPCspw1i2RkjxaNA17Jsux0aouiGDpQMrmWMnw4zvAzaQTAwZo7TmDbdtM0wSWLZDFtgvUDQhiG6m8CMBHVxmsHGDOV+57J/T1VT7cb9nVvRSi4TwxDkJmuK6ZNJoyJJMMML5f1CnHKBQATQxMx9zxFpEmCfZHsGNZnM8pNonoM/iNKIfL8rR6kiTEYVEmqvo4QJwTFHULEGWOo9P2VxuQJUUpMt+MwhDg0DA/UlrS9sbFFur3KpCzPkVqH/c/BQXg+U9DN3rKcVNXLeqs/kcX4nxMr5x+pv9TrI+VvW32J12G4+C4oCl2vPcopzxVS+7b9TVFabTtbcU4JqZBCrlvGYBeY7q7XZ70hruaiCuX58RjZrx4dCOfmZvOcpmnCrSjnfCWDF2AqNzGrv8u12EWmaXrRF5BzipArvt41pRHIzDqHocUx6EYxRkx/5zb/Aa9RJ+CTR/1wAAAAAElFTkSuQmCC",
+	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAFdQTFRFR3BMoKCgZGRkwcHBXFxcYmJisrKyX19fs7Oz0tLSzMzMgICAXFxcnJycy8vLXFxc0NDQx8fHwcHBu7u7sbGxp6enoKCgmJiYj4+PhISEfHx8bGxsXFxcEekSJAAAABB0Uk5TABQuUVFpjpSmqru7yN/i6I5wZV0AAAEXSURBVHjarZPbEoMgDEQFxNRWa8Vy5/+/swl4Y6b1qfvm7CEbdqT5u4S49pma2SVwW9T9MuC9qFlcBIwIXIV0mibMP0O4KcDPkHEDnux7gDPvArz6ejJvJQA83AG8nve+7zohBGsgoWL0zjlbACJ29Q0b0A8ebWv0NmHeKLoQm5AggPwCqAzs2/KVKANIiBx+TSwotenoo01E0JIUskmd+pJIBGc1ATtU9QkF0NoYvWJdXVZK3hljrLOWGKREBUDewbosa0j1hCHF7PkQfGasHc8+wxXQ9THm2n2GOTnHPb0P6BbFQIysV4jFBihIjOFxAqaUNUiGcXJYmfMlURPw/RvyCX4ucmjr36wFjDtWKIdrMQn/ec0f7Qoj5jV01pcAAAAASUVORK5CYII=",
+	"starAmount":"6",
+	"starsShown":8
+}
