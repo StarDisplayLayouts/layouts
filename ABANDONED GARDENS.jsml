@@ -1,4 +1,4 @@
-// Abandoned Gardens demo
+// Abandoned Gardens demo v2
 // layout by @g0ldyosh
 {
 	"courseDescription":[
@@ -11,6 +11,9 @@
 		{"text":"-- Wallman's Tower --","Type":2},
 		{"text":"","starMask":2,"offset":13,"Type":1},
 		{"text":"","starMask":2,"offset":57,"Type":1},
+		{"text":"-- Motos Factory --","Type":2},
+		{"text":"","starMask":252,"offset":13,"Type":1},
+		{"text":"","starMask":11,"offset":14,"Type":1},
 		{"text":"-- Fire Bubble's Challenge --","Type":2},
 		{"text":"","starMask":1,"offset":12,"Type":1}
 	],
