@@ -111,6 +111,8 @@
 		{"text":"","starMask":3,"offset":69,"Type":1},
 		{"text":"Rocky Castle","Type":2},
 		{"text":"","starMask":3,"offset":61,"Type":1},
+		{"text":"Secrets of the Sand Castle","Type":2},
+		{"text":"","starMask":3,"offset":36,"Type":1},
 		{"text":"Sky Platforms","Type":2},
 		{"text":"","starMask":3,"offset":67,"Type":1},
 		{"text":"Slippin' Slidin' Island","Type":2},
@@ -148,8 +150,6 @@
 		{"text":"","starMask":1,"offset":72,"Type":1},
 		{"text":"Plexal Knowledge","Type":2},
 		{"text":"","starMask":1,"offset":58,"Type":1},
-		{"text":"Secrets of the Sand Castle","Type":2},
-		{"text":"","starMask":1,"offset":36,"Type":1},
 		{"text":"Sunken Ship","Type":2},
 		{"text":"","starMask":1,"offset":50,"Type":1},
 		{"text":"The Secret Aquarium","Type":2},
@@ -157,6 +157,6 @@
 	],
 	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAXdQTFRFR3BM2bAH//+6/f1R+/dq/f2ayIwAv4EA9/KEzpkA+/dWqFAA//+x/v9506YA8+s1///HxYwA//+/7t89yI8A3sAX//+8//9j//+////MtmYA//+b///E/fmB1KkL///F2rcA/v1rrVMA6NE0+/4d9/dL9/cnlDkA06cA/v8YpUkA1rAAu3EAtGQA5M4umzoAmToAnUAAnEAAzZoA//+v3r4A8OQ6/f2P7t4Z//+0//+A//9F/PZt3LYAy5YAs2MA//9+///Io0cA//9l//+7+vhv5c0OuW4AqU4A//+I6dYftmcA8eYrtGMA+PdJ//9y5c4mr1wA8uom+PNYyYoA6tkTrVYA9u9u4McM+PWA+vhhv3YA0p4B+faJ9/B46NMT7N0f9u5k1KUI+/aU//8v+PYs//+vxYUAyZAA8uY/wX0A/Po3//+Y/fx39e8z7t8xnkIA/v1f3LYA9epc4L4F9el08uNZ+PRxmjwA//9Ts2AA5c1L5s9CYJc0ZwAAAFZ0Uk5TAP7cN2c6OAX9/nRfrAROE+vNEC6L+2MMjbmjgxuhhVAdrCH+reXRPryfFOermlaH+MWy5zKw7eXNmcaB0XbX2f////////////////////////////6J6XfHAAAB/ElEQVR42q2T53OiQBxA1woaY0k0uUtPvN57L1RREZWIBURA7J7R2GNyf/wtN5mIM4mTD3lfduC93R8wA7hztjeW+w+4f2dpcB/HPcv8Bg7Zv9nv+PF6HfevLRlApUgKv3eT38epDkmmKMpxvV+zQh/DZjHKunpt8LXeIbGTE6xfpxaGbDocdvf3w8PPHYxMYZkMhqXqlNXj2XbbbbZNAHZjBvAu2e+nYlIiIWEQ43I2q1arT8HqNwyeS9NTmoZLK6t1JUlKJpN/INXqA/g0vh90ptWLG2haXM0mjg26tW6tVnvkA5D1T3E18h9VzWoJg+NuNwl5aHijCBUMImpcS5Sn5QxEkmhaRG3gklfhNCTc6w1LlYo4nYoluJZQ0/eyK/l8uVxWKujFxViZTIZ5RRnbgYldURQVtDJOW2T9bzgUSqcte8DMOtyCohO1oDcbgi43m4P20ULgHsIZrWxBbzMMy7QZvsiuLARfWq2eFhkIDMtxHM/zUYJ4Z/a+rDoa6Q2GLQptLpfLRaPE6RvEFHhHslDkoJZdLoExPHF69tgUBJvMOVcUdIsrEGi6GiwMiLPXc4/8ZnmuLQ+eB50AOIPvXY1zOOPtPDjK8VzD8tGLXPbeJ3IxRxDProIVnvn182B+IAIO9gJsdP6iW1tOuHkRxPniJVgKcsu/+R/k3Yd5S3ZjpwAAAABJRU5ErkJggg==",
 	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAACXBIWXMAAAsTAAALEwEAmpwYAAABdklEQVR42s2Vsa2DMBCG3xCeIGtYMiINNR0oxclFCppESBF5PT0LMAEzpGYOpFTZ4h7OWTrH2EjwmvA1kaL/893Zhp9vf66n6+kfcS1qvKEWuwXNcMEa74/d5VdoBDfc1YYWMJFgZxtVd0ZbwczmNkoJ6Ai2twGTL2ieWmwov0DA6kPwi80QDRwPpVQw0yZ90qdjgQGBUTzvj2ZohqqrulIa5qqSXiKRzeRYvAFPQAoPqkqLdKR4buPw5swCxlPZvdFCvkhBAo5HBMuxHg++gtcnSFMv47zvIcXFwhrWldLbCQUSWUFDJC4Laj5WIUXOTRC+KH4qk94RGGigvqxbuQEsIPjX2VKt3QrVujMoHIBZqyAdjYBjOeFrpugrxDZgo9kMH/HcER8P4QaABBSWHplTjYLoHmQGJ2ZupyuhatIxKDBnkUlHBVpQawrS8VMTfCdItLySvpTL/1XLS5QyNAFeN/oooJZUG5iAar3pRnfLaL7n8/sHZtdcBdcQpBEAAAAASUVORK5CYII=",
-	"starAmount":"215",
+	"starAmount":"216",
 	"starsShown":7
 }
